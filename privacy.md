@@ -54,7 +54,7 @@ Backups and exports are created only when you ask for them and are saved to the 
 
 ## Children
 
-Hord is not directed at children and does not knowingly collect personal information from anyone.
+Hord is made for a general audience and is not specifically designed for children. It does not collect personal information from its users..
 
 ## Deleting your data
 
@@ -122,7 +122,7 @@ Yedek ve dışa aktarma dosyaları yalnızca sen istediğinde oluşturulur ve se
 
 ## Çocuklar
 
-Hord çocuklara yönelik değildir ve bilerek kimseden kişisel bilgi toplamaz.
+Hord genel kullanıcılar için yapılmıştır; özel olarak çocuklara yönelik tasarlanmamıştır. Kullanıcılarından kişisel bilgi toplamaz.
 
 ## Verilerini silmek
 
